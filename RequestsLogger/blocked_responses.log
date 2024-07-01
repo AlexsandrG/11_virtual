@@ -1,0 +1,2 @@
+Blocked or no response from https://instagram.com: HTTPSConnectionPool(host='instagram.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E17B81AD0>, 'Connection to instagram.com timed out. (connect timeout=3)'))
+Blocked or no response from https://twitter.com: HTTPSConnectionPool(host='twitter.com', port=443): Read timed out. (read timeout=3)
